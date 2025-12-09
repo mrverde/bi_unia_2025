@@ -1,6 +1,6 @@
 # bi_unia_2025
 
-Archivos para el curso de BI de la UNIA 2024.
+Archivos para el curso de BI de la UNIA 2025.
 
 ## Carpetas
 + **GIT** - Apuntes básicos sobre Git y GitHub
